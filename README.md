@@ -24,9 +24,11 @@ optional arguments:
   ----------------------------------------------------------------------------------------
   
   NOTE: right now, if the progeramme is to be run with the data from the uploaded .zip file, it must be done in this way:
+  
   Bayes: 
   - 2 folders must be created: train_path and test_path
   - put all the data to train_path and NONE to test_path
+  
   KNN:
   - 2 folders must be created: train_path and test_path
   - split the data between train_path and test_path
