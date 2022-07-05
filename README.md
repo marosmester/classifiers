@@ -12,8 +12,10 @@ usage: classifier.py [-h] (-k K | -b) [-o filepath] train_path test_path
 Learn and classify image data.
 
 positional arguments:
-  train_path   path to the training data directory
-  test_path    path to the testing data directory
+
+train_path   path to the training data directory
+
+test_path    path to the testing data directory
 
 optional arguments:
   -h, --help   show this help message and exit
